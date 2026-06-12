@@ -1,0 +1,6 @@
+{
+  "name": "Market PH",
+  "description": "The ultimate local peer-to-peer marketplace for the Philippines featuring secure GCash listing fees, Cash on Delivery checkouts, real-time smart vendor chat, and custom admin verification pipelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
